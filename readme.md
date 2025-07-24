@@ -1,8 +1,9 @@
 # Stockholm Ransomware Tool
 > **"Ransomware attacks like WannaCry highlight the critical need for robust cybersecurity measures and regular data backups. They serve as a stark reminder of the vulnerabilities in our interconnected digital world."**
 
-![WannaCry msg](https://github.com/ftTower/ftTower/blob/main/assets/Stockholm/header.png)
-![impact](https://github.com/ftTower/ftTower/blob/main/assets/Stockholm/wannacry_impact.png)
+<div align="center">
+    <img src="https://github.com/ftTower/ftTower/blob/main/assets/Stockholm/header.png" alt="WannaCry msg">
+</div>
 
 ## Description
 Stockholm is a Python-based ransomware simulation tool designed for educational and cybersecurity training purposes. It encrypts files within a specified directory and provides functionality to decrypt them using a generated or provided key. The tool includes options for silent operation, version display, and help documentation.
