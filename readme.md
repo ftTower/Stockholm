@@ -7,15 +7,16 @@
 Stockholm is a Python-based ransomware simulation tool designed for educational and cybersecurity training purposes. It encrypts files within a specified directory and provides functionality to decrypt them using a generated or provided key. The tool includes options for silent operation, version display, and help documentation.
 
 ## Features
+
+<div align="center">
+    <img src="https://github.com/ftTower/ftTower/blob/main/assets/Stockholm/wannacry_msg.png" alt="WannaCry msg">
+</div>
+
 - **File Encryption**: Encrypts all files in the specified directory using the `cryptography` library.
 - **File Decryption**: Decrypts files using a provided decryption key.
 - **Silent Mode**: Suppresses output to the terminal for a quieter operation.
 - **Help Menu**: Displays usage instructions and available options.
 - **Version Information**: Displays the current version of the tool and system information.
-
-<div align="center">
-    <img src="https://github.com/ftTower/ftTower/blob/main/assets/Stockholm/wannacry_msg.png" alt="WannaCry msg">
-</div>
 
 ## Usage
 Run the script with the following options:
